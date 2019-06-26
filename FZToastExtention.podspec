@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FZToastExtention'
-  s.version          = '0.0.2'
+  s.version          = '0.0.1'
   s.summary          = 'A short description of FZToastExtention.'
 
 # This description is used to generate tags and improve search results.
@@ -31,13 +31,11 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'FZToastExtention/Classes/*.{h,m}'
-#  s.resource = 'FZToastExtention/FZToastExtention.bundle'
   s.resource_bundles = {
      'FZToastExtention' => ['FZToastExtention/Assets/*']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  
   s.requires_arc =  true
   
   # s.frameworks = 'UIKit', 'MapKit'

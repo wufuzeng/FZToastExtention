@@ -269,13 +269,6 @@
     
     if (((type & FZViewToastTypeCancel) == FZViewToastTypeCancel) && cancel){
         cancelButton = [[UIButton alloc]init];
-   
-//        NSBundle *mainBundle = [NSBundle mainBundle];
-//        NSString *myBundlePath = [mainBundle pathForResource:@"FZToastExtention" ofType:@"bundle"];
-//        NSBundle *myBundle = [NSBundle bundleWithPath:myBundlePath];
-//        //放在自定义bundle中的图片
-//        NSString *imagePath = [myBundle pathForResource:@"delete_icon@2x" ofType:@"png"];
-//        UIImage *image = [UIImage imageWithContentsOfFile:imagePath];
         UIImage *image = [UIImage imageNamed:@"FZToastExtention.bundle/delete_icon"];
         [cancelButton setImage:image forState:UIControlStateNormal];
         [cancelButton addTarget:self action:@selector(fz_cancelButtonAction:) forControlEvents:UIControlEventTouchUpInside];
@@ -286,7 +279,7 @@
         NSLayoutConstraint *top = [NSLayoutConstraint constraintWithItem:cancelButton attribute:NSLayoutAttributeTop relatedBy:NSLayoutRelationEqual toItem:toastView attribute:NSLayoutAttributeTop multiplier:1.0 constant:0];
         NSLayoutConstraint *right = [NSLayoutConstraint constraintWithItem:cancelButton attribute:NSLayoutAttributeRight relatedBy:NSLayoutRelationEqual toItem:toastView attribute:NSLayoutAttributeRight multiplier:1.0 constant:0.0];
         NSLayoutConstraint *width = [NSLayoutConstraint constraintWithItem:cancelButton attribute:NSLayoutAttributeWidth relatedBy:NSLayoutRelationEqual toItem:nil attribute:0 multiplier:1.0 constant:30.0];
-        NSLayoutConstraint *height = [NSLayoutConstraint constraintWithItem:cancelButton attribute:NSLayoutAttributeHeight relatedBy:NSLayoutRelationEqual toItem:nil attribute:0 multiplier:1.0 constant:margin];
+        NSLayoutConstraint *height = [NSLayoutConstraint constraintWithItem:cancelButton attribute:NSLayoutAttributeHeight relatedBy:NSLayoutRelationEqual toItem:nil attribute:0 multiplier:1.0 constant:30.0];
 
         [toastView addConstraints:@[top,right,width,height]];
 
