@@ -273,7 +273,6 @@
         [cancelButton setImage:image forState:UIControlStateNormal];
         [cancelButton addTarget:self action:@selector(fz_cancelButtonAction:) forControlEvents:UIControlEventTouchUpInside];
         
-        
         [toastView addSubview:cancelButton];
         cancelButton.translatesAutoresizingMaskIntoConstraints = NO;
         NSLayoutConstraint *top = [NSLayoutConstraint constraintWithItem:cancelButton attribute:NSLayoutAttributeTop relatedBy:NSLayoutRelationEqual toItem:toastView attribute:NSLayoutAttributeTop multiplier:1.0 constant:0];
