@@ -8,6 +8,8 @@
 
 #import "FZViewController.h"
 
+#import <FZToastExtention/FZToastExtention.h>
+
 @interface FZViewController ()
 
 @end
@@ -18,6 +20,27 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+
+
+
+
+-(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    [super touchesBegan:touches withEvent:event];
+    
+    
+    //[self.view fz_showLoading];
+    
+    //[self.view fz_showMsg:@"holle world !"];
+    
+    [self.view fz_showWithIcon:[UIImage imageNamed:@"submitSucceed"] title:@"title" msg:@"message" reload:^{
+        
+    } cancel:^{
+         
+    }];
+    
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
