@@ -276,7 +276,7 @@
 //        //放在自定义bundle中的图片
 //        NSString *imagePath = [myBundle pathForResource:@"delete_icon@2x" ofType:@"png"];
 //        UIImage *image = [UIImage imageWithContentsOfFile:imagePath];
-        UIImage *image = [UIImage imageNamed:@"delete_icon"];
+        UIImage *image = [UIImage imageNamed:@"FZToastExtention.bundle/delete_icon"];
         [cancelButton setImage:image forState:UIControlStateNormal];
         [cancelButton addTarget:self action:@selector(fz_cancelButtonAction:) forControlEvents:UIControlEventTouchUpInside];
         
