@@ -1,11 +1,12 @@
 # 你刚好需要，我刚好出现，请赏一颗小星星.
-
+        
 <p align="center" >
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540706_.picpic.jpg" title="" float=left width = '200px'>
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540707_.pic.jpg" title="" float=left width = '200px'>
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540708_.pic.jpg" title="" float=left width = '200px'>
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540709_.pic.jpg" title="" float=left width = '200px'>
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540710_.pic.jpg" title="" float=left width = '200px'>
+效果展示
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540706_.pic.png" title="" float=left width = '200px'>
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540707_.pic.png" title="" float=left width = '200px'>
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540708_.pic.png" title="" float=left width = '200px'>
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540709_.pic.png" title="" float=left width = '200px'>
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540710_.pic.png" title="" float=left width = '200px'>
 </p>
 
 
