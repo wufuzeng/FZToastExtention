@@ -4,11 +4,11 @@
 <p align="center" >
 效果展示
 </p>
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540706_.pic.png" title="" float=left width = '200px' />
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/791561540707_.pic.jpg" title="" float=left width = '200px' />
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/801561540708_.pic.jpg" title="" float=left width = '200px' />
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/811561540709_.pic.jpg" title="" float=left width = '200px' />
-<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/821561540710_.pic.jpg" title="" float=left width = '200px' />
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/781561540706_.pic.png" title="" float=left width = '200px' >
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/791561540707_.pic.jpg" title="" float=left width = '200px' >
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/801561540708_.pic.jpg" title="" float=left width = '200px' >
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/811561540709_.pic.jpg" title="" float=left width = '200px' >
+<img src="https://github.com/wufuzeng/FZToastExtention/blob/master/Screenshots/821561540710_.pic.jpg" title="" float=left width = '200px' >
 </p>
 
 
