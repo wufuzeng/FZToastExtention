@@ -1,5 +1,5 @@
 PODS:
-  - FZToastExtention (0.0.1)
+  - FZToastExtention (0.0.3)
 
 DEPENDENCIES:
   - FZToastExtention (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FZToastExtention: 34179ff73e18c2d967df02dc4914056f17d254aa
+  FZToastExtention: dcd7f54265cf07013ea9a11a8adab8e145519ba4
 
 PODFILE CHECKSUM: 9ecc52910f7ed24b44e2e215f7884b8743a2ff88
 

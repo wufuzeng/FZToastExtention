@@ -8,36 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		00291ECF511EB2641D2E8292C7CE00CD /* Pods-FZToastExtention_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B5AA3CF7550CDEF19CCE226AAFADBA15 /* Pods-FZToastExtention_Example-dummy.m */; };
-		11E354DBE5B2D4F7D18CC2AD209B59F4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		130D90F732A931873BB6A082B9A30F62 /* delete_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DF8A90CDA085129FC6B4E3F05F04C86 /* delete_icon@2x.png */; };
+		290D3A9114E4C52B409745D83E414DB8 /* delete_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85698F611EC921A218DA453708AE6195 /* delete_icon@3x.png */; };
+		31383249A98C490FCEA596A954500CE3 /* FZToastExtention.h in Headers */ = {isa = PBXBuildFile; fileRef = F0EBE7FF44CEF5AB1F875D3468B89EDC /* FZToastExtention.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		341258F081690912AD14A56ED76D166D /* Pods-FZToastExtention_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4BF463B9AF4643CECC33288268A05457 /* Pods-FZToastExtention_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		36FC0E09E31E7F31C62902266F6F82B9 /* FZToastExtention.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CB2BEE1CAE97A6EEAC677854356EF59F /* FZToastExtention.bundle */; };
 		3CBD901FCE0CA01BB9524BB75F639818 /* Pods-FZToastExtention_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 191CC11F19CBF279361C0EB039F619DD /* Pods-FZToastExtention_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		44D8422FFAE3AA3E153E2B385881DE4C /* FZToastExtention-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D3A5DB233D92600BEC9BE748622F2418 /* FZToastExtention-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3FD53C92F9BE28BB7A91FF0DAFDF089A /* FZToastExtention-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DFE96BDAB62D3827812B03A5BA04ED7E /* FZToastExtention-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5A6C6ED4D5BFA86BBD9DE5FE2D0F7578 /* FZToastExtention.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CB2BEE1CAE97A6EEAC677854356EF59F /* FZToastExtention.bundle */; };
+		62E6FD1E824665DC8E422AC6B55C2E95 /* FZToastExtentionBundle.h in Headers */ = {isa = PBXBuildFile; fileRef = B454A3DC3C394994B967BF45796FE1DF /* FZToastExtentionBundle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		71D1FB08D10F4EFBA40198031CF7A9FC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		8A64658F44C1FF5987C69DB645C9195B /* delete_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9A46228178F439AC7BDD25CDDC2C07 /* delete_icon@3x.png */; };
-		8AA4F044ADE3C4BE3CC3EDEF45331F23 /* FZToastExtention-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B869F6F0E888345B6EEFBAF7CFDADBAB /* FZToastExtention-dummy.m */; };
-		9AE5C0C5ADF76988522E124B9CF8372F /* UIView+FZ_Toast.h in Headers */ = {isa = PBXBuildFile; fileRef = CF1E6AFBA92F33E3BE7C399C5936352B /* UIView+FZ_Toast.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9EA75A90FA160FE3B610EB7FB1C2063E /* Pods-FZToastExtention_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AA7B83CA88FF0D8E0C1D81FFFAF34F45 /* Pods-FZToastExtention_Tests-dummy.m */; };
-		D614A47837BB0B90C35B0E089F0082BC /* UIView+FZ_Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = AD4E8A98FF684064992C2E37B46C4D90 /* UIView+FZ_Toast.m */; };
+		CAF51CF07DC0BB2EA97702851000286E /* delete_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD15C5DBB9F5B811DDFB98142C23692 /* delete_icon@2x.png */; };
+		CE9ACA6F5DC068212626713F884EAA03 /* FZToastExtention-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 70E1230CEF033CDFEA3CF3889BD246A5 /* FZToastExtention-dummy.m */; };
+		D5F87FAA7D4EC52AA1EC35940DA3865C /* UIView+FZ_Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = A31E04AAF9BD3F545C63CBF87D3CAF16 /* UIView+FZ_Toast.m */; };
 		D841256A632DE6D9E2612CA62D669BEE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		FA462E12818EB55759FFF2BFCDF404BC /* FZToastExtention.h in Headers */ = {isa = PBXBuildFile; fileRef = 014D72FA9C2B265F3A8CB35B06567142 /* FZToastExtention.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E1053B861A2FCD631935DF7FD73693C2 /* UIView+FZ_Toast.h in Headers */ = {isa = PBXBuildFile; fileRef = 11DFE2AF2934B37C29170E4F01F2635C /* UIView+FZ_Toast.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E4454709F1F0D38B2564DB02C23045D0 /* FZToastExtentionBundle.m in Sources */ = {isa = PBXBuildFile; fileRef = 53C37EBE1FD891AF0A7531683F2D0633 /* FZToastExtentionBundle.m */; };
+		E986FEA292F3596D52FE942FF253876A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0F5DFEE96AEFA8CA70199ED37D51C191 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 137A4718236B3A4FAF802710B9F981BA;
-			remoteInfo = "FZToastExtention-FZToastExtention";
-		};
 		10499A137177F4CF3E4E04611863B982 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 359949BAEB6A67680FF96ACC329EDC10;
 			remoteInfo = FZToastExtention;
+		};
+		3B35C93F2CE5F63B06A582E7F3FD9652 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 137A4718236B3A4FAF802710B9F981BA;
+			remoteInfo = "FZToastExtention-FZToastExtention";
 		};
 		DE3AC2E4132CCBCA0826C4FACC1EE87A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -49,13 +51,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		014D72FA9C2B265F3A8CB35B06567142 /* FZToastExtention.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FZToastExtention.h; path = FZToastExtention/Classes/FZToastExtention.h; sourceTree = "<group>"; };
-		0C2EF760FFA1D1F0AC093F012464FFC2 /* FZToastExtention.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FZToastExtention.modulemap; sourceTree = "<group>"; };
-		0DF8A90CDA085129FC6B4E3F05F04C86 /* delete_icon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "delete_icon@2x.png"; path = "FZToastExtention/Assets/delete_icon@2x.png"; sourceTree = "<group>"; };
 		0E5B2701F50B1635C12F43553A98975B /* Pods-FZToastExtention_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FZToastExtention_Example.release.xcconfig"; sourceTree = "<group>"; };
+		0FD15C5DBB9F5B811DDFB98142C23692 /* delete_icon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "delete_icon@2x.png"; path = "FZToastExtention/Assets/delete_icon@2x.png"; sourceTree = "<group>"; };
+		11DFE2AF2934B37C29170E4F01F2635C /* UIView+FZ_Toast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+FZ_Toast.h"; path = "FZToastExtention/Classes/UIView+FZ_Toast.h"; sourceTree = "<group>"; };
 		142357A3B4F95C04DF6A82F9667C6EDC /* Pods-FZToastExtention_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FZToastExtention_Example.modulemap"; sourceTree = "<group>"; };
 		173E78FE3F303A308368B1F0AA3834A8 /* Pods-FZToastExtention_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FZToastExtention_Example-Info.plist"; sourceTree = "<group>"; };
 		191CC11F19CBF279361C0EB039F619DD /* Pods-FZToastExtention_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FZToastExtention_Tests-umbrella.h"; sourceTree = "<group>"; };
+		19899A2BA0F22B766B0564BB7E7E4693 /* FZToastExtention-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FZToastExtention-prefix.pch"; sourceTree = "<group>"; };
 		1A9D49D4A1CC2702CDFCFA5101467447 /* Pods_FZToastExtention_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FZToastExtention_Tests.framework; path = "Pods-FZToastExtention_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D540AA2D7C0F65F24E82ED29D5F5731 /* Pods-FZToastExtention_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FZToastExtention_Tests-Info.plist"; sourceTree = "<group>"; };
 		25C6EA28534DD079B4DAFA6466146043 /* Pods-FZToastExtention_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FZToastExtention_Tests.modulemap"; sourceTree = "<group>"; };
@@ -64,28 +66,30 @@
 		358FED4970292E09B319777315DE0CFF /* Pods-FZToastExtention_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FZToastExtention_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3BED087020BABD7CF983F05ACEFF9316 /* Pods-FZToastExtention_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FZToastExtention_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		3CBB914031D0D6DF84499BD8A4F7763E /* Pods_FZToastExtention_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FZToastExtention_Example.framework; path = "Pods-FZToastExtention_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		48C1F9655008DD955B9A45CF4D379AC9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		49F2232B63EC7533A723B914F3B1B7F5 /* Pods-FZToastExtention_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FZToastExtention_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4BF463B9AF4643CECC33288268A05457 /* Pods-FZToastExtention_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FZToastExtention_Example-umbrella.h"; sourceTree = "<group>"; };
+		53C37EBE1FD891AF0A7531683F2D0633 /* FZToastExtentionBundle.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FZToastExtentionBundle.m; path = FZToastExtention/Classes/FZToastExtentionBundle.m; sourceTree = "<group>"; };
 		57AE7E1CB4E65CF22CE9D5CA182B439F /* FZToastExtention.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FZToastExtention.framework; path = FZToastExtention.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		63E107BF7E12D63C6BDCEBF11E23E100 /* FZToastExtention-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FZToastExtention-prefix.pch"; sourceTree = "<group>"; };
 		6B130B122E1B69D3FA06D92DFAC1A34A /* Pods-FZToastExtention_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FZToastExtention_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		8D5A4D9BE8200B9D830A99E496A4E746 /* ResourceBundle-FZToastExtention-FZToastExtention-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-FZToastExtention-FZToastExtention-Info.plist"; sourceTree = "<group>"; };
+		6FB3E4471DFF1D43BE66676C167C38E9 /* FZToastExtention.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FZToastExtention.modulemap; sourceTree = "<group>"; };
+		70E1230CEF033CDFEA3CF3889BD246A5 /* FZToastExtention-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FZToastExtention-dummy.m"; sourceTree = "<group>"; };
+		85698F611EC921A218DA453708AE6195 /* delete_icon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "delete_icon@3x.png"; path = "FZToastExtention/Assets/delete_icon@3x.png"; sourceTree = "<group>"; };
+		8A4D38CA73B0D27BCBF73026B891FFA2 /* FZToastExtention-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FZToastExtention-Info.plist"; sourceTree = "<group>"; };
+		912BF859F747637C77CF58ECB62FE4AD /* ResourceBundle-FZToastExtention-FZToastExtention-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-FZToastExtention-FZToastExtention-Info.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9FDBC03F35D368EEDDF2864DD0F1BBE7 /* FZToastExtention.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FZToastExtention.xcconfig; sourceTree = "<group>"; };
+		A31E04AAF9BD3F545C63CBF87D3CAF16 /* UIView+FZ_Toast.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+FZ_Toast.m"; path = "FZToastExtention/Classes/UIView+FZ_Toast.m"; sourceTree = "<group>"; };
 		AA7B83CA88FF0D8E0C1D81FFFAF34F45 /* Pods-FZToastExtention_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FZToastExtention_Tests-dummy.m"; sourceTree = "<group>"; };
-		AD4E8A98FF684064992C2E37B46C4D90 /* UIView+FZ_Toast.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+FZ_Toast.m"; path = "FZToastExtention/Classes/UIView+FZ_Toast.m"; sourceTree = "<group>"; };
+		B454A3DC3C394994B967BF45796FE1DF /* FZToastExtentionBundle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FZToastExtentionBundle.h; path = FZToastExtention/Classes/FZToastExtentionBundle.h; sourceTree = "<group>"; };
+		B4ACD64920D01DE380572BE5B2E3E707 /* FZToastExtention.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = FZToastExtention.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B5AA3CF7550CDEF19CCE226AAFADBA15 /* Pods-FZToastExtention_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FZToastExtention_Example-dummy.m"; sourceTree = "<group>"; };
-		B869F6F0E888345B6EEFBAF7CFDADBAB /* FZToastExtention-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FZToastExtention-dummy.m"; sourceTree = "<group>"; };
 		BA64CF246D973118CC9E0ABB4740AD58 /* Pods-FZToastExtention_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FZToastExtention_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		CB2BEE1CAE97A6EEAC677854356EF59F /* FZToastExtention.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FZToastExtention.bundle; path = "FZToastExtention-FZToastExtention.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE9A46228178F439AC7BDD25CDDC2C07 /* delete_icon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "delete_icon@3x.png"; path = "FZToastExtention/Assets/delete_icon@3x.png"; sourceTree = "<group>"; };
-		CF1E6AFBA92F33E3BE7C399C5936352B /* UIView+FZ_Toast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+FZ_Toast.h"; path = "FZToastExtention/Classes/UIView+FZ_Toast.h"; sourceTree = "<group>"; };
 		CFE048D4BF2822DE98D8886FC59A28A3 /* Pods-FZToastExtention_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FZToastExtention_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		D3A5DB233D92600BEC9BE748622F2418 /* FZToastExtention-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FZToastExtention-umbrella.h"; sourceTree = "<group>"; };
-		DC020FB25D4D07C6DD29EF56B0860175 /* FZToastExtention-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FZToastExtention-Info.plist"; sourceTree = "<group>"; };
-		DDB6550948015842EC154E6B10F1756A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		E2D1606F6B0DFC8659905F594E1FB11E /* FZToastExtention.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FZToastExtention.xcconfig; sourceTree = "<group>"; };
-		E68B568B72ED35D5D929FB374F6A47D0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		EC59319C9A564464927296D60F9A841F /* FZToastExtention.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = FZToastExtention.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		DFE96BDAB62D3827812B03A5BA04ED7E /* FZToastExtention-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FZToastExtention-umbrella.h"; sourceTree = "<group>"; };
+		F075FBCA4241603E2A01AA91A6082110 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		F0EBE7FF44CEF5AB1F875D3468B89EDC /* FZToastExtention.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FZToastExtention.h; path = FZToastExtention/Classes/FZToastExtention.h; sourceTree = "<group>"; };
 		F3B939F1D5001B41FEBADF1D37111A86 /* Pods-FZToastExtention_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FZToastExtention_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -98,13 +102,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		75FB8EEE5E6C97061A849E4E2B470C4A /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		89B338ED2B8A65D01C3A51FC08D0148C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -113,17 +110,39 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DEC6D0EFA75C08CC89B491896F6FD630 /* Frameworks */ = {
+		994E7DC20EBB364BF7C52AA418B9DE37 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11E354DBE5B2D4F7D18CC2AD209B59F4 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E53E6CAD6B9F7AB378AF227BA50CE446 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E986FEA292F3596D52FE942FF253876A /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		06605880B8D7EC2747E5860A046E0088 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				6FB3E4471DFF1D43BE66676C167C38E9 /* FZToastExtention.modulemap */,
+				9FDBC03F35D368EEDDF2864DD0F1BBE7 /* FZToastExtention.xcconfig */,
+				70E1230CEF033CDFEA3CF3889BD246A5 /* FZToastExtention-dummy.m */,
+				8A4D38CA73B0D27BCBF73026B891FFA2 /* FZToastExtention-Info.plist */,
+				19899A2BA0F22B766B0564BB7E7E4693 /* FZToastExtention-prefix.pch */,
+				DFE96BDAB62D3827812B03A5BA04ED7E /* FZToastExtention-umbrella.h */,
+				912BF859F747637C77CF58ECB62FE4AD /* ResourceBundle-FZToastExtention-FZToastExtention-Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/FZToastExtention";
+			sourceTree = "<group>";
+		};
 		13F322F56CB21C71952A40BFCAD16956 /* Pods-FZToastExtention_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -140,15 +159,6 @@
 			path = "Target Support Files/Pods-FZToastExtention_Tests";
 			sourceTree = "<group>";
 		};
-		16C5B24DB40795FC0444B9AA9C879B31 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				0DF8A90CDA085129FC6B4E3F05F04C86 /* delete_icon@2x.png */,
-				CE9A46228178F439AC7BDD25CDDC2C07 /* delete_icon@3x.png */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
 		67C0F6554D20652622761A2E2FD908EB /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -158,19 +168,29 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		A01069390766A44A609DACA62740E591 /* Support Files */ = {
+		76ED840355AC40A6949801B0A0F74BC0 /* FZToastExtention */ = {
 			isa = PBXGroup;
 			children = (
-				0C2EF760FFA1D1F0AC093F012464FFC2 /* FZToastExtention.modulemap */,
-				E2D1606F6B0DFC8659905F594E1FB11E /* FZToastExtention.xcconfig */,
-				B869F6F0E888345B6EEFBAF7CFDADBAB /* FZToastExtention-dummy.m */,
-				DC020FB25D4D07C6DD29EF56B0860175 /* FZToastExtention-Info.plist */,
-				63E107BF7E12D63C6BDCEBF11E23E100 /* FZToastExtention-prefix.pch */,
-				D3A5DB233D92600BEC9BE748622F2418 /* FZToastExtention-umbrella.h */,
-				8D5A4D9BE8200B9D830A99E496A4E746 /* ResourceBundle-FZToastExtention-FZToastExtention-Info.plist */,
+				F0EBE7FF44CEF5AB1F875D3468B89EDC /* FZToastExtention.h */,
+				B454A3DC3C394994B967BF45796FE1DF /* FZToastExtentionBundle.h */,
+				53C37EBE1FD891AF0A7531683F2D0633 /* FZToastExtentionBundle.m */,
+				11DFE2AF2934B37C29170E4F01F2635C /* UIView+FZ_Toast.h */,
+				A31E04AAF9BD3F545C63CBF87D3CAF16 /* UIView+FZ_Toast.m */,
+				D663E7AE97E6923E3CA72D567556D0E6 /* Pod */,
+				978A7988E84DF609A982DA033433B5F8 /* Resources */,
+				06605880B8D7EC2747E5860A046E0088 /* Support Files */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/FZToastExtention";
+			name = FZToastExtention;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		978A7988E84DF609A982DA033433B5F8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0FD15C5DBB9F5B811DDFB98142C23692 /* delete_icon@2x.png */,
+				85698F611EC921A218DA453708AE6195 /* delete_icon@3x.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		A74218489B4C507605D56FC5F33E7E97 /* Pods-FZToastExtention_Example */ = {
@@ -190,20 +210,10 @@
 			path = "Target Support Files/Pods-FZToastExtention_Example";
 			sourceTree = "<group>";
 		};
-		B32FA683E8777B37E1F5898828FD7C40 /* Pod */ = {
+		B2E6B3BCA74042731BA98AA2FAACF291 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				EC59319C9A564464927296D60F9A841F /* FZToastExtention.podspec */,
-				DDB6550948015842EC154E6B10F1756A /* LICENSE */,
-				E68B568B72ED35D5D929FB374F6A47D0 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		B52BC60796E15FC06168A7D92E6055A2 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				D5A5393D2AFEC023254549A46D763E0B /* FZToastExtention */,
+				76ED840355AC40A6949801B0A0F74BC0 /* FZToastExtention */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -220,7 +230,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				B52BC60796E15FC06168A7D92E6055A2 /* Development Pods */,
+				B2E6B3BCA74042731BA98AA2FAACF291 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				FE41D712303BC8FC252A267CABF217FA /* Products */,
 				67C0F6554D20652622761A2E2FD908EB /* Targets Support Files */,
@@ -235,18 +245,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D5A5393D2AFEC023254549A46D763E0B /* FZToastExtention */ = {
+		D663E7AE97E6923E3CA72D567556D0E6 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				014D72FA9C2B265F3A8CB35B06567142 /* FZToastExtention.h */,
-				CF1E6AFBA92F33E3BE7C399C5936352B /* UIView+FZ_Toast.h */,
-				AD4E8A98FF684064992C2E37B46C4D90 /* UIView+FZ_Toast.m */,
-				B32FA683E8777B37E1F5898828FD7C40 /* Pod */,
-				16C5B24DB40795FC0444B9AA9C879B31 /* Resources */,
-				A01069390766A44A609DACA62740E591 /* Support Files */,
+				B4ACD64920D01DE380572BE5B2E3E707 /* FZToastExtention.podspec */,
+				F075FBCA4241603E2A01AA91A6082110 /* LICENSE */,
+				48C1F9655008DD955B9A45CF4D379AC9 /* README.md */,
 			);
-			name = FZToastExtention;
-			path = ../..;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		FE41D712303BC8FC252A267CABF217FA /* Products */ = {
@@ -263,16 +269,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		55276754FFC81211D6CC53F15A04F1B2 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				44D8422FFAE3AA3E153E2B385881DE4C /* FZToastExtention-umbrella.h in Headers */,
-				FA462E12818EB55759FFF2BFCDF404BC /* FZToastExtention.h in Headers */,
-				9AE5C0C5ADF76988522E124B9CF8372F /* UIView+FZ_Toast.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		6B72CAFA7E9CD17224C349F85D9C5D19 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -289,16 +285,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		EC431F1B338F36203190EE0342B6A5EF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3FD53C92F9BE28BB7A91FF0DAFDF089A /* FZToastExtention-umbrella.h in Headers */,
+				31383249A98C490FCEA596A954500CE3 /* FZToastExtention.h in Headers */,
+				62E6FD1E824665DC8E422AC6B55C2E95 /* FZToastExtentionBundle.h in Headers */,
+				E1053B861A2FCD631935DF7FD73693C2 /* UIView+FZ_Toast.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		137A4718236B3A4FAF802710B9F981BA /* FZToastExtention-FZToastExtention */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B0EE7D0440E90FABE1B57CB1D87FA2C9 /* Build configuration list for PBXNativeTarget "FZToastExtention-FZToastExtention" */;
+			buildConfigurationList = CE11A34B5BBDFE9E5F32C8885E5F6C58 /* Build configuration list for PBXNativeTarget "FZToastExtention-FZToastExtention" */;
 			buildPhases = (
-				62275A0FE7A06D0FD49ACC51D856A7F2 /* Sources */,
-				75FB8EEE5E6C97061A849E4E2B470C4A /* Frameworks */,
-				E8310C1A7CBDB5668DB7B206D940F295 /* Resources */,
+				B6B6418587BAFD9BFD0A66D0A8F7C393 /* Sources */,
+				994E7DC20EBB364BF7C52AA418B9DE37 /* Frameworks */,
+				F6049381A0A134ADF42A10E9F6AC19A0 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -311,17 +318,17 @@
 		};
 		359949BAEB6A67680FF96ACC329EDC10 /* FZToastExtention */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 85D9ACBBB31A4555398F1AA91E5D8264 /* Build configuration list for PBXNativeTarget "FZToastExtention" */;
+			buildConfigurationList = 5F1985B6736CE0B15B70A91699A3989D /* Build configuration list for PBXNativeTarget "FZToastExtention" */;
 			buildPhases = (
-				55276754FFC81211D6CC53F15A04F1B2 /* Headers */,
-				471A1A6C3EB6BA74EC50860C6645801B /* Sources */,
-				DEC6D0EFA75C08CC89B491896F6FD630 /* Frameworks */,
-				7A8F47355C827AC6AC02061C078F71C2 /* Resources */,
+				EC431F1B338F36203190EE0342B6A5EF /* Headers */,
+				04103A35BC9DC7ADDC81D1DB1ACA9EE4 /* Sources */,
+				E53E6CAD6B9F7AB378AF227BA50CE446 /* Frameworks */,
+				E80393A7C5E469319BC4908EA202B48F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				94E233D125508DFCFFE9210F3E203C50 /* PBXTargetDependency */,
+				3A7F50135BDC82551953A8141BE1E734 /* PBXTargetDependency */,
 			);
 			name = FZToastExtention;
 			productName = FZToastExtention;
@@ -410,32 +417,33 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A8F47355C827AC6AC02061C078F71C2 /* Resources */ = {
+		E80393A7C5E469319BC4908EA202B48F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36FC0E09E31E7F31C62902266F6F82B9 /* FZToastExtention.bundle in Resources */,
+				5A6C6ED4D5BFA86BBD9DE5FE2D0F7578 /* FZToastExtention.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E8310C1A7CBDB5668DB7B206D940F295 /* Resources */ = {
+		F6049381A0A134ADF42A10E9F6AC19A0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				130D90F732A931873BB6A082B9A30F62 /* delete_icon@2x.png in Resources */,
-				8A64658F44C1FF5987C69DB645C9195B /* delete_icon@3x.png in Resources */,
+				CAF51CF07DC0BB2EA97702851000286E /* delete_icon@2x.png in Resources */,
+				290D3A9114E4C52B409745D83E414DB8 /* delete_icon@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		471A1A6C3EB6BA74EC50860C6645801B /* Sources */ = {
+		04103A35BC9DC7ADDC81D1DB1ACA9EE4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AA4F044ADE3C4BE3CC3EDEF45331F23 /* FZToastExtention-dummy.m in Sources */,
-				D614A47837BB0B90C35B0E089F0082BC /* UIView+FZ_Toast.m in Sources */,
+				CE9ACA6F5DC068212626713F884EAA03 /* FZToastExtention-dummy.m in Sources */,
+				E4454709F1F0D38B2564DB02C23045D0 /* FZToastExtentionBundle.m in Sources */,
+				D5F87FAA7D4EC52AA1EC35940DA3865C /* UIView+FZ_Toast.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -447,7 +455,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		62275A0FE7A06D0FD49ACC51D856A7F2 /* Sources */ = {
+		B6B6418587BAFD9BFD0A66D0A8F7C393 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -465,11 +473,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		94E233D125508DFCFFE9210F3E203C50 /* PBXTargetDependency */ = {
+		3A7F50135BDC82551953A8141BE1E734 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "FZToastExtention-FZToastExtention";
 			target = 137A4718236B3A4FAF802710B9F981BA /* FZToastExtention-FZToastExtention */;
-			targetProxy = 0F5DFEE96AEFA8CA70199ED37D51C191 /* PBXContainerItemProxy */;
+			targetProxy = 3B35C93F2CE5F63B06A582E7F3FD9652 /* PBXContainerItemProxy */;
 		};
 		C55FC63F06AA9CA1E11843129F3AB5FB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -486,37 +494,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		067DE4A01CADE6D79BAA46454E54BC60 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E2D1606F6B0DFC8659905F594E1FB11E /* FZToastExtention.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FZToastExtention/FZToastExtention-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FZToastExtention/FZToastExtention-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FZToastExtention/FZToastExtention.modulemap";
-				PRODUCT_MODULE_NAME = FZToastExtention;
-				PRODUCT_NAME = FZToastExtention;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		17F61442295B1AD6F6DD7BB7DFEADB43 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6B130B122E1B69D3FA06D92DFAC1A34A /* Pods-FZToastExtention_Tests.release.xcconfig */;
@@ -544,6 +521,37 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		2F16BEC4508979775422E0F0EBF7C21E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9FDBC03F35D368EEDDF2864DD0F1BBE7 /* FZToastExtention.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FZToastExtention/FZToastExtention-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FZToastExtention/FZToastExtention-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FZToastExtention/FZToastExtention.modulemap";
+				PRODUCT_MODULE_NAME = FZToastExtention;
+				PRODUCT_NAME = FZToastExtention;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -583,22 +591,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		3FC36328A7E2F46CA0A29DBCA57B6428 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E2D1606F6B0DFC8659905F594E1FB11E /* FZToastExtention.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/FZToastExtention";
-				INFOPLIST_FILE = "Target Support Files/FZToastExtention/ResourceBundle-FZToastExtention-FZToastExtention-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = FZToastExtention;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
 		};
 		4BE66A09A74FD25164AAB3C2645B9B93 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -659,6 +651,22 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
+		};
+		5A4DEE66D1895276DE82F5AE200F4656 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9FDBC03F35D368EEDDF2864DD0F1BBE7 /* FZToastExtention.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/FZToastExtention";
+				INFOPLIST_FILE = "Target Support Files/FZToastExtention/ResourceBundle-FZToastExtention-FZToastExtention-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = FZToastExtention;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
 		};
 		7EF7227D9B20A1D549000096ACCB23D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -721,52 +729,6 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Debug;
-		};
-		802762442116CC1FDE72BB1A68CD9BD1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E2D1606F6B0DFC8659905F594E1FB11E /* FZToastExtention.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/FZToastExtention";
-				INFOPLIST_FILE = "Target Support Files/FZToastExtention/ResourceBundle-FZToastExtention-FZToastExtention-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = FZToastExtention;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		958EEB67C105347314D8ED4A829FAB6A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E2D1606F6B0DFC8659905F594E1FB11E /* FZToastExtention.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FZToastExtention/FZToastExtention-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FZToastExtention/FZToastExtention-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FZToastExtention/FZToastExtention.modulemap";
-				PRODUCT_MODULE_NAME = FZToastExtention;
-				PRODUCT_NAME = FZToastExtention;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
@@ -837,6 +799,52 @@
 			};
 			name = Release;
 		};
+		C9C2DF13B380F6B04CA9ED229B03185D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9FDBC03F35D368EEDDF2864DD0F1BBE7 /* FZToastExtention.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/FZToastExtention";
+				INFOPLIST_FILE = "Target Support Files/FZToastExtention/ResourceBundle-FZToastExtention-FZToastExtention-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = FZToastExtention;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		DD50F6A449B8EFD24B955543988A54BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9FDBC03F35D368EEDDF2864DD0F1BBE7 /* FZToastExtention.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FZToastExtention/FZToastExtention-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FZToastExtention/FZToastExtention-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FZToastExtention/FZToastExtention.modulemap";
+				PRODUCT_MODULE_NAME = FZToastExtention;
+				PRODUCT_NAME = FZToastExtention;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -858,20 +866,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		85D9ACBBB31A4555398F1AA91E5D8264 /* Build configuration list for PBXNativeTarget "FZToastExtention" */ = {
+		5F1985B6736CE0B15B70A91699A3989D /* Build configuration list for PBXNativeTarget "FZToastExtention" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				958EEB67C105347314D8ED4A829FAB6A /* Debug */,
-				067DE4A01CADE6D79BAA46454E54BC60 /* Release */,
+				DD50F6A449B8EFD24B955543988A54BC /* Debug */,
+				2F16BEC4508979775422E0F0EBF7C21E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B0EE7D0440E90FABE1B57CB1D87FA2C9 /* Build configuration list for PBXNativeTarget "FZToastExtention-FZToastExtention" */ = {
+		CE11A34B5BBDFE9E5F32C8885E5F6C58 /* Build configuration list for PBXNativeTarget "FZToastExtention-FZToastExtention" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				802762442116CC1FDE72BB1A68CD9BD1 /* Debug */,
-				3FC36328A7E2F46CA0A29DBCA57B6428 /* Release */,
+				5A4DEE66D1895276DE82F5AE200F4656 /* Debug */,
+				C9C2DF13B380F6B04CA9ED229B03185D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

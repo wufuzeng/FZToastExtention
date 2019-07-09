@@ -11,6 +11,7 @@
 #endif
 
 #import "FZToastExtention.h"
+#import "FZToastExtentionBundle.h"
 #import "UIView+FZ_Toast.h"
 
 FOUNDATION_EXPORT double FZToastExtentionVersionNumber;

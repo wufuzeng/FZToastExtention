@@ -9,7 +9,7 @@
 
 #import "UIView+FZ_Toast.h"
 #import <objc/runtime.h>
-
+#import "FZToastExtentionBundle.h"
 @interface UIView ()
 
 @property (nonatomic,strong,nullable) UIView *fz_backgroundView;
@@ -269,7 +269,8 @@
     
     if (((type & FZViewToastTypeCancel) == FZViewToastTypeCancel) && cancel){
         cancelButton = [[UIButton alloc]init];
-        UIImage *image = [UIImage imageNamed:@"FZToastExtention.bundle/delete_icon"];
+        //UIImage *image = [UIImage imageNamed:@"FZToastExtention.bundle/delete_icon"];
+        UIImage *image = [FZToastExtentionBundle fz_imageNamed:@"delete_icon"];
         [cancelButton setImage:image forState:UIControlStateNormal];
         [cancelButton addTarget:self action:@selector(fz_cancelButtonAction:) forControlEvents:UIControlEventTouchUpInside];
         
